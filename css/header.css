@@ -1,8 +1,6 @@
 /*Family: Roboto Weight: Bold | 700 Size: 56px Line Height: 60px | 1.07 Letter Spacing: 2% | 0.02em/*/
-header {       
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 1.07;    
+header {
+    background-color: #ffffff;     
 }
 .logo span {
     text-transform: uppercase;    
@@ -10,43 +8,65 @@ header {
     font-size: 24px;
 }
 .logo {
-    text-transform: uppercase;
-    font-size: 24px;
-    font-family: 'Raleway';
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        color: #434455;
+        background-color: #fff;
+    text-transform: uppercase;     
 }
     /*letter-spacing was 1.17*/
 .features {
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2e2e;
 }
 .team {
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2e2e;
 }
 .portfolio { 
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04;   
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;  
+     color: #2e2e2e;
 }
 /*Family: Roboto Weight: Regular | 400 Size: 12px Line Height: 16px | 1.33 Letter Spacing: 4% | 0.04em Decoration: Underline Decoration Skip Ink: None*/
 .email {
 font-weight: 400;
-font-size: 12px;
-line-height: 1.33;
-letter-spacing: 0.04em;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 text-decoration: none;
 font-style: normal;
+color: #2e2e2e;
 }
 .phone {
     font-weight: 400;
-    font-size: 12px;
-    line-height: 1.33;
-    letter-spacing: 0.04em;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     text-decoration: none;
     font-style: normal;
+    color: #2e2e2e;
+}
+.features:hover,
+.features:focus,
+.team:hover,
+.team:focus,
+.portfolio:hover,
+.portfolio:focus,
+.email:hover,
+.email:focus,
+.phone:hover,
+.phone:focus {
+    color: #404BBF;
 }

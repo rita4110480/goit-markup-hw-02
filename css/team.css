@@ -2,25 +2,32 @@
 .team {
     background-color: #F4F4FD;
 }
+.team-item {
+    background-color: #ffffff;
+}
 .team-title {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
-letter-spacing: 0,02em;
+letter-spacing: 0.02em;
 color: #2E2F42;
 text-align: center;
 }
 /*Family: Roboto Weight: Medium | 500 Size: 20px Line Height: 24px | 1.20 Letter Spacing: 2% | 0.02em*/
 .team-subtitle {
-color: inherit;
-text-align: left;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2E2F42;
+    text-align: center;
 }
 /*Family: Roboto Weight: Regular | 400 Size: 12px Line Height: 14px | 1.17 Letter Spacing: 4% | 0.04em*/
 .team-text {
 font-weight: 400;
-font-size: 12px;
+font-size: 16px;
 line-height: 1.17;
-letter-spacing: 0,04;
+letter-spacing: 0.04rem;
 color: #434455;
 text-align: left;
 }

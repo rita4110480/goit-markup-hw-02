@@ -7,8 +7,8 @@
  /*Family: Roboto Weight: Regular | 400 Size: 12px Line Height: 14px | 1.17 Letter Spacing: 4% | 0.04em*/
  .features-text {
 font-weight: 400;
-font-size: 12px;
-line-height: 1.17;
-letter-spacing: 0.04em;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 color: #434455;
  }

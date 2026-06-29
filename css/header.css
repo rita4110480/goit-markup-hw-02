@@ -1,0 +1,52 @@
+/*Family: Roboto Weight: Bold | 700 Size: 56px Line Height: 60px | 1.07 Letter Spacing: 2% | 0.02em/*/
+header {       
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;    
+}
+.logo span {
+    text-transform: uppercase;    
+    color: #4D5AE5;
+    font-size: 24px;
+}
+.logo {
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: 'Raleway';
+}
+    /*letter-spacing was 1.17*/
+.features {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04;
+}
+.team {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04;
+}
+.portfolio { 
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04;   
+}
+/*Family: Roboto Weight: Regular | 400 Size: 12px Line Height: 16px | 1.33 Letter Spacing: 4% | 0.04em Decoration: Underline Decoration Skip Ink: None*/
+.email {
+font-weight: 400;
+font-size: 12px;
+line-height: 1.33;
+letter-spacing: 0.04em;
+text-decoration: none;
+font-style: normal;
+}
+.phone {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    font-style: normal;
+}

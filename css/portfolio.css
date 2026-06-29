@@ -1,0 +1,18 @@
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0, 02em;
+    color: #2E2F42;
+}
+.portfolio-subtitle {
+color: inherit;
+}
+
+.portfolio-text {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0, 04;
+    color: #434455;
+}
